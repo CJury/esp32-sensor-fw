@@ -1,0 +1,7 @@
+# esp
+build/
+sdkconfig
+sdkconfig.old
+
+# Vim
+*.swp
