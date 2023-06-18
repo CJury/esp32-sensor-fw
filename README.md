@@ -9,17 +9,13 @@ idf.py menuconfig
 ```
 
 #### Specify the partition table
-Navigate to Partition Table -> Partition Table and select "Custom partition table CSV"
 ![Alt text](./assets/Custom%20partition%20table%20CSV.png?raw=true "Custom partition table CSV")
 
-Set "Custom partition CSV file" to "partitions.csv"
 ![Alt text](./assets/Custom%20partition%20CSV%20file.png?raw=true "Custom partition CSV file")
 
 #### Configure WiFi
 
-Project Configuration -> WiFi SSID
 ![Alt text](./assets/WiFi%20SSID.png?raw=true "WiFi SSID")
-Project Configuration -> WiFi Password
 ![Alt text](./assets/WiFi%20Password.png?raw=true "WiFi Pasword")
 
 ### Build
